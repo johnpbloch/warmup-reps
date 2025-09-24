@@ -55,6 +55,15 @@
 			location.hash = '';
 
 			$.ajax({
+				url: 'programs/radically_simple_strength.json',
+				dataType: 'json',
+				success: function(data) {
+			    warmupApp.programs.push(data);
+				},
+				async: false
+			});
+
+			$.ajax({
 				url: 'programs/starting_strength.json',
 				dataType: 'json',
 				success: function(data) {
