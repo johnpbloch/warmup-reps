@@ -5,7 +5,7 @@
     "max" : 600,
     "workouts" : [{
         "sets" : "1",
-        "reps" : "5",
+        "reps" : "10",
         "multiplier" : 0
       }, {
         "sets" : "1",
@@ -33,7 +33,7 @@
     "max" : 500,
     "workouts": [{
         "sets" : "1",
-        "reps" : "5",
+        "reps" : "10",
         "multiplier" : 0
       }, {
         "sets" : "1",
@@ -62,22 +62,18 @@
     "workouts" : [{
         "sets" : "1",
         "reps" : "5",
-        "multiplier" : 0
-      }, {
-        "sets" : "1",
-        "reps" : "5",
         "multiplier" : 0.6
       }, {
         "sets" : "1",
-        "reps" : "5",
+        "reps" : "3",
         "multiplier" : 0.7
       }, {
         "sets" : "1",
-        "reps" : "5",
+        "reps" : "2",
         "multiplier" : 0.8
       }, {
         "sets" : "1",
-        "reps" : "5",
+        "reps" : "1",
         "multiplier" : 0.9
       }, {
         "sets" : "1",
@@ -89,7 +85,7 @@
     "max" : 400, 
     "workouts" : [{
         "sets" : "1",
-        "reps" : "5",
+        "reps" : "10",
         "multiplier" : 0
       }, {
         "sets" : "1",
